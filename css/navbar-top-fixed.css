@@ -1,0 +1,47 @@
+/* Show it is fixed to the top */
+body {
+  padding-top: 3em;
+  background: url(../img/back-home-tab.jpg) !important;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.img16 {
+	width: 16px;
+}
+.thead-red {
+	background: #d71149 !important;
+	border: #c30f42 !important;
+	color: #fff !important;
+}
+.bg-red {
+	background: #c30f42 !important;
+}
+img.img40 {
+    width: 10%;
+    position: relative;
+}
+.separate {
+	margin-top: 40px;
+}
+.backwhite {
+	background: #fff;
+}
+.tablenopadtop th {
+    border-top: 0px !important;
+}
+.absolute {
+	position: relative;
+}
+.pad10 {
+	padding: 20px;
+}
+.btn-newred {
+	color: #fff;
+	background-color: #c30d41;
+	border-color: #c30d41;
+}
+.btn.addred {
+    color: #171515;
+    background-color: #fdf9fa;
+    border-color: #c30d41;
+}
